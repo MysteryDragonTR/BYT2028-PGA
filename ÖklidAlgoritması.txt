@@ -1,0 +1,8 @@
+1. Başla
+2. Ekrana "Birinci sayıyı giriniz:" yaz ve girilen sayıyı oku (s1)
+3. Ekrana "İkinci sayıyı giriniz:" yaz ve girilen sayıyı oku (s2)
+4. Büyük olanı küçük olana böl
+5. Eğer kalan sıfırdan büyükse 6. adıma değilse 7. adıma git
+6. Böleni kalana böl ve 5. adıma git.
+7. Böleni ekrana yaz.
+8. Bitir
