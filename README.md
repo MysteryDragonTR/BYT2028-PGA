@@ -1,12 +1,8 @@
-# BYT2028-PGA
+# Bilişim Teknolojileri Dersi - Programlamaya Giriş ve Algoritmalar Modülü
+Ders kapsamında hazırladığımız ürün dosyalarını ve çalışmaları bu kısımdan paylaşmaktayız.
 
-1 > Başla
-2 > n1, n2'den büyük olacak şekilde değer gir
-3 > n1'i n2'ye bölüp kalanı "kalan" olarak kaydet
-4 > kalan 0 ise 6. adıma, değilse 5. adıma geç
-5 > n2'yi n1'e, kalanı n2'ye ata ve 3. adıma geri dön
-6 > n2'yi ekrana yaz
-7 > Bitir
-
-26 Ekim 2024, Ahmet Volkan Ö., 341
-İFL 2028 - Öklid Algoritması
+## Öklid Algoritması ile OBEB/EBOB Hesaplanması
+Bu matematiksel işlem algoritması EBOB/OBEB hesaplarken işimizi kolaylaştırmaktadır. İşlem karmaşıklığı klasik yönteme göre daha düşüktür.
+<br><br>Algortimaya Ulaşmak için : [Tıklatınız](https://github.com/MysteryDragonTR/BYT2028-PGA/blob/main/%C3%96klidAlgoritmas%C4%B1.txt)
+<br><br>Algoritmanın Akış Şeması:
+<br><br> ![Öklid Algoritmasının Akış Şeması](https://github.com/MysteryDragonTR/BYT2028-PGA/blob/main/OklidAlgoritmasi_AkisSemasi.jpg)
