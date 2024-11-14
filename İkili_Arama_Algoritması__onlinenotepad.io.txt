@@ -1,0 +1,13 @@
+1 > Başla
+
+2 > Verilen ardışık sayı dizisindeki en büyük ve en küçük sayıyı toplayıp ikiye böl, eğer bu sayı bir tam sayı değilse bu sayıdan küçük en büyük tam sayıyı al ve one "M" de.
+
+3 > M'nin aranana eşit mi yoksa küçük veya büyük mü diye arat.
+
+4 > Eğer M aranandan küçükse M ve M'den büyük tüm sayıları diziden at ve 1. adıma geri dön
+
+5 > Eğer M aranandan büyükse M'den küçük tüm sayıları diziden at ve 1. adıma geri dön
+
+6 > Eğer M aranana eşitse M'yi yazdır
+
+7 > Bitir
