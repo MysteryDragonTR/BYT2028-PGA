@@ -1,0 +1,14 @@
+1. Programı başlat
+2. Ekrana "Kütlenizi kilogram cinsinden yazınız... " yazdır ve girdiyi *kütle* değişkenine ata
+3. Ekrana "Boyunuzu metre cinsinden yazınız... " yazdır ve girdiyi *boy* değişkenine ata
+4. *kütle* değişkenini *boy* değişkeninin karesine böl ve aldığın değeri *vki* değişkenine ata
+5. Eğer *vki* değişkeni 18.5'in altındaysa 5, değilse 6. adıma git
+6. *vki* değişkenini "Zayıf" mesajıyla beraber ekrana yaz
+7. Eğer *vki* değişkeni 18.5 ile 24.9 arasındaysa 7, değilse 8. adıma git
+8. *vki* değişkenini "Sağlıklı" mesajıyla beraber ekrana yaz
+9. Eğer *vki* değişkeni 25 ile 29.9 arasında ise 9, değilse 10. adıma git
+10. *vki* değişkenini "Şişman" mesajıyla beraber ekrana yaz
+11. Eğer *vki* değişkeni 30 ile 39.9 arasında ise 11, değilse 12. adıma git
+12. *vki* değişkenini "Obez" mesajıyla beraber ekrana yaz
+13. *vki* değişkenini "Aşırı(morbid) Obez" mesajıyla beraber ekrana yaz
+14. Programı bitir
